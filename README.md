@@ -4,7 +4,6 @@
 - **User Authentication**: Create an account, sign in, or reset your password to access exclusive content.
 - **Tournament Management**: Participate in tournaments or organize your own with our intuitive tournament management system.
 - **Sleek Design**: Enjoy a visually appealing interface designed to immerse you in the gaming experience.
-- **Responsive Layout**: Access the website seamlessly from any device, whether it's a desktop, tablet, or mobile phone.
 
 ## Files
 
